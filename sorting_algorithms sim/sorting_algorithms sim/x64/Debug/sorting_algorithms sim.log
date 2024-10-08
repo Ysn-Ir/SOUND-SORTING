@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\ouali\source\repos\sorting_algorithms sim\sorting_algorithms sim\main.cpp(58,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sorting_algorithms sim.vcxproj -> C:\Users\ouali\source\repos\sorting_algorithms sim\x64\Debug\sorting_algorithms sim.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
